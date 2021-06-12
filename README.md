@@ -15,7 +15,7 @@
  [**pranavxc**](https://github.com/pranavxc) 
 
 <hr>
-Mail Id : __pranavcbalan@gmail.com__
+Mail Id : **pranavcbalan@gmail.com**
 <hr>
 
 
