@@ -21,11 +21,8 @@
 
 ----
 
-<table><tr><th>♥️ If you like me ♥️ <br><a href="http://buymeacoff.ee/pranavc"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"><a></th></tr><table>
-
-
-----
-
+<table><tr><th>♥️ If you like me ♥️ <br><a href="http://buymeacoff.ee/pranavc"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"><a></th>
+<th>
  <a href="https://stackoverflow.com/users/3037257/pranav-ram">
 <img src="https://stackoverflow.com/users/flair/3037257.png?theme=dark" width="208" height="58" alt="profile for Pranav Ram at Stack Overflow, Q&A for professional and enthusiast programmers" title="profile for Pranav Ram at Stack Overflow, Q&A for professional and enthusiast programmers">
-</a> 
+</a></th></tr><table> 
